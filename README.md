@@ -15,3 +15,8 @@ l'ensemble du réseau — rendre la grande échelle possible sans le gros matér
 ## Licence
 
 MIT
+
+
+---
+
+**Soutenir** — [`payrequest.me/lvs0`](https://payrequest.me/lvs0)
